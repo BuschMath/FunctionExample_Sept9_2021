@@ -8,7 +8,7 @@ int main()
 {
 	cout << "In main\n\n";
 
-	char input = 'f';
+	char input;
 
 	cout << "Input t or f: ";
 	cin >> input;
